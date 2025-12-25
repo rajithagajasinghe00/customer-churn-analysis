@@ -27,4 +27,7 @@ This project analyzes customer churn behavior using telecom data to identify key
 ## 📊 Dashboard Preview
 ![Dashboard](Customer_Churn.png)
 
+📄 Project Summary: Customer_Churn_Project_Summary.pdf
+
+
 
