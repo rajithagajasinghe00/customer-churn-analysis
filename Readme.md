@@ -24,4 +24,7 @@ This project analyzes customer churn behavior using telecom data to identify key
 - Power BI interactive dashboard
 - Visual summaries of churn drivers
 
+## 📊 Dashboard Preview
+![Dashboard](Customer_Churn.png)
+
 
